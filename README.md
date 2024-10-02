@@ -1,4 +1,8 @@
-# @extractus/article-extractor
+# @extractus/article-extractor fork
+
+article-extractor but it works on Cloudflare Workers
+
+---
 
 Extract main article, main image and meta data from URL.
 
